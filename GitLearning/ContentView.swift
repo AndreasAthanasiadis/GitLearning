@@ -18,7 +18,7 @@ struct ContentView: View {
                 Button(action: {
                     showNav = true
                 }, label: {
-                    Text("Git Learning App")
+                    Text("Git Learning Aasdasdpp")
                 })
                 Button(action: {
                     showSheet = true
